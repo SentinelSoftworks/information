@@ -1,4 +1,6 @@
-# Information
+---
+title: "Information"
+---
 
 [Read our Terms of Service](terms.md)
 
